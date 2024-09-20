@@ -1,5 +1,5 @@
 ---
-- name: install softwares
+- name: install softwares1
   hosts: ubuntu
   vars:
     package_list:
